@@ -1,0 +1,10 @@
+[Sun Jan 28 00:03:38 2024
+] [5] Hello
+[Sun Jan 28 00:03:40 2024
+] [5] Testing
+[Sun Jan 28 00:03:49 2024
+] [5] This is a simple chat system
+[Sun Jan 28 00:03:54 2024
+] [5] between a client and a server 
+[Sun Jan 28 00:04:02 2024
+] [5] which echoes the message
